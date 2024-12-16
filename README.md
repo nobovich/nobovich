@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello Earthlings! 
+I am someone who is just got "curious" about web apps/development thanks to his friends.
+I think thats enough info about me for now until I learn and "advance" my knowledge.
+ok, bye👋
+
 
 <!--
 **nobovich/nobovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
