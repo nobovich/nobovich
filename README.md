@@ -1,6 +1,6 @@
 ## Hello Earthlings! 
 I am someone who is just got "curious" about web apps/development thanks to his friends.
-I think thats enough info about me for now until I learn and "advance" my knowledge.
+I think thats enough info about me for now until I learn to code&develop and "advance" my knowledge.
 ok, bye👋
 
 
